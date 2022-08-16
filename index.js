@@ -7,4 +7,3 @@ import ReactAPIcall from './ReactAPIcall.jsx'
 
  ReactDom.render(<ReactAPIcall/> ,document.getElementById('root'))
 
-//<App/>   This is component ,We always use first capital letter of component bcz it will differentiate html tags and react component 
