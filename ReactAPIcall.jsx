@@ -50,6 +50,12 @@ setNum(event.target.value)
 export default ReactAPIcall
 
 
-//install axios package 
-//Search PokeAPI
-//then copy link
+//install axios package
+
+// Introduction to Axios: Axios, which is a popular library is mainly used to send asynchronous HTTP requests to REST endpoints. This library is very useful to perform CRUD operations.
+
+// This popular library is used to communicate with the backend. Axios supports the Promise API, native to JS ES6.
+// Using Axios we make API requests in our application. Once the request is made we get the data in Return, and then we use this data in our project. 
+
+
+
